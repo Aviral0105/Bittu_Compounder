@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Google Cloud Key
+backend/bittu_credentials.json
+
+# OS
+.DS_Store
