@@ -12,4 +12,4 @@ backend/bittu_credentials.json
 
 # OS
 .DS_Store
-Backend/keys/google-creds.json 
+backend/keys/google-creds.json 
